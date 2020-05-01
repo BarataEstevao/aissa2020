@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc59ae6b-999b-4bc3-9e0e-dff20f960a5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sdtrabalhofinal-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SDTrabalho.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jersey-container-jdk-http-2.25.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Descoberta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quarto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursosQuartos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursosServidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Descoberta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Quarto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RecursosQuartos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RecursosServidor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Servidor.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="neldomarcelino &lt;guerzeneldo@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bHLGHa4SI8UTlpYkSXmnYMHZ5b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587126534440" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jersey-container-jdk-http-2.25.1.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Cliente">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cliente" />
+      <module name="sdtrabalhofinal-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Servidor" />
+      <module name="sdtrabalhofinal-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cliente" />
+        <item itemvalue="Application.Servidor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc59ae6b-999b-4bc3-9e0e-dff20f960a5c" name="Default Changelist" comment="" />
+      <created>1587020145237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587020145237</updated>
+      <workItem from="1587020153168" duration="21227000" />
+      <workItem from="1587046773452" duration="2469000" />
+      <workItem from="1587108812043" duration="8249000" />
+      <workItem from="1587128953024" duration="3570000" />
+      <workItem from="1588283982112" duration="8702000" />
+      <workItem from="1588296350065" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="32" key="#Servidor" timestamp="1588284521075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="32" key="#Servidor/0.0.1366.728@0.0.1366.728" timestamp="1588284521075" />
+    <state x="486" y="121" key="FileChooserDialogImpl" timestamp="1588284468049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588284468049" />
+    <state width="1286" height="161" key="GridCell.Tab.0.bottom" timestamp="1588294332795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588294332795" />
+    <state width="1286" height="161" key="GridCell.Tab.0.center" timestamp="1588294332794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588294332794" />
+    <state width="1286" height="161" key="GridCell.Tab.0.left" timestamp="1588294332792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588294332792" />
+    <state width="1286" height="161" key="GridCell.Tab.0.right" timestamp="1588294332794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588294332794" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1588289793235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588289793235" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588296412514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588296412514" />
+  </component>
+</project>
